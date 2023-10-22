@@ -1,0 +1,14 @@
+.bgimg {
+
+    background: linear-gradient(to right,
+            rgba(0, 0, 0, 0.4),
+            rgba(9, 26, 24, 0.85)),
+        url(../../img/aboutCover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.bg {
+    background-image: url("../../img/tours-tastings-bg.jpg");
+}

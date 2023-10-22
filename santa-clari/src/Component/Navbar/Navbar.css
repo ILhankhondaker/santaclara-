@@ -1,0 +1,11 @@
+.navcss {
+    position: fixed;
+    top: 0;
+
+    background-color: #483828;
+    color: #dce4d8;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+
+}
